@@ -1,0 +1,7 @@
+INSERT INTO CATEGORIA (CODIGO, NOME, DESCRICAO, PRIORIDADE) VALUES ('buracos', 'Buracos e vias danificadas', 'Buracos, asfalto quebrado, calçadas danificadas e rachaduras.', 'Alta prioridade');
+INSERT INTO CATEGORIA (CODIGO, NOME, DESCRICAO, PRIORIDADE) VALUES ('alagamentos', 'Alagamentos', 'Ruas alagadas, enchentes, bueiros entupidos e pontos de inundação.', 'Alta prioridade');
+INSERT INTO CATEGORIA (CODIGO, NOME, DESCRICAO, PRIORIDADE) VALUES ('transito', 'Trânsito e bloqueios', 'Acidentes, obras, interdições, congestionamentos e obstáculos na pista.', 'Atenção');
+INSERT INTO CATEGORIA (CODIGO, NOME, DESCRICAO, PRIORIDADE) VALUES ('lixo', 'Lixo e limpeza urbana', 'Descarte irregular, entulho, lixo acumulado e terrenos sujos.', 'Moderada');
+INSERT INTO CATEGORIA (CODIGO, NOME, DESCRICAO, PRIORIDADE) VALUES ('iluminacao', 'Iluminação pública', 'Postes apagados, lâmpadas quebradas e iluminação insuficiente.', 'Atenção');
+INSERT INTO CATEGORIA (CODIGO, NOME, DESCRICAO, PRIORIDADE) VALUES ('acessibilidade', 'Acessibilidade', 'Rampas inexistentes, calçadas obstruídas e falta de acessibilidade.', 'Moderada');
+INSERT INTO CATEGORIA (CODIGO, NOME, DESCRICAO, PRIORIDADE) VALUES ('riscos', 'Riscos e segurança', 'Árvores prestes a cair, fios expostos, estruturas danificadas e outros riscos urbanos.', 'Pode ser urgente');
